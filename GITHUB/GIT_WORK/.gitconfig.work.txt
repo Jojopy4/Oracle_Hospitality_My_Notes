@@ -1,0 +1,9 @@
+[user]
+email = jojopy4@gmail.com
+name = Jojo
+ 
+[github]
+user = “jojopy4”
+ 
+[core]
+sshCommand = “ssh -i ~/.ssh/jojopy4”

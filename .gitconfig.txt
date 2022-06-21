@@ -1,0 +1,6 @@
+[includeIf “gitdir:~/Work/”] # include for all .git projects / 
+path = ~C/Users/Admin/.ssh/GITHUB/GIT_WORK/.gitconfig-work
+ 
+[core]
+excludesfile = ~/.gitignore      # valid everywhere
+
